@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "845768659800",
+    "firebase_url": "https://course-8c4f2-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "course-8c4f2",
+    "storage_bucket": "course-8c4f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845768659800:android:cba4573a4001cd5ae04b2d",
+        "android_client_info": {
+          "package_name": "com.example.local_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuQ8pycj_rMMzbMoDBhhi9d72e-l42qmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845768659800:android:b707c2e9b22769d8e04b2d",
+        "android_client_info": {
+          "package_name": "com.example.travel_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuQ8pycj_rMMzbMoDBhhi9d72e-l42qmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
